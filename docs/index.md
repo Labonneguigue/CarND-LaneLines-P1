@@ -3,18 +3,18 @@
 ### Here is a brief description of the image processing pipeline I built to detect the lines on both sides of the lane a car is driving in.
 
 ---
-<img src="test_image_output/solidWhiteRight.jpg" width="480" alt="Combined Image" />
+<img src="../test_image_output/solidWhiteRight.jpg" width="480" alt="Combined Image" />
 
-[original]: test_images/solidYellowCurve.jpg "Original"
-[yellow]: test_image_output/yellow.jpg "Yellow"
-[white]: test_image_output/white.jpg "White"
-[gray]: test_image_output/gray.jpg "Gray"
-[canny]: test_image_output/canny.jpg "Canny"
-[mask]: test_image_output/mask.jpg "Mask"
-[hough]: test_image_output/hough_2.jpg "Hough"
-[final_result]: test_image_output/solidYellowCurve.jpg "Final result"
-[no_grey]: test_image_output/solidYellowCurve_noGrey.jpg "No grey"
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[original]: ../test_images/solidYellowCurve.jpg "Original"
+[yellow]: ../test_image_output/yellow.jpg "Yellow"
+[white]: ../test_image_output/white.jpg "White"
+[gray]: ../test_image_output/gray.jpg "Gray"
+[canny]: ../test_image_output/canny.jpg "Canny"
+[mask]: ../test_image_output/mask.jpg "Mask"
+[hough]: ../test_image_output/hough_2.jpg "Hough"
+[final_result]: ../test_image_output/solidYellowCurve.jpg "Final result"
+[no_grey]: ../test_image_output/solidYellowCurve_noGrey.jpg "No grey"
+[image1]: ../examples/grayscale.jpg "Grayscale"
 
 ---
 
